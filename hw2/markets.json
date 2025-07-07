@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Match winner",
+    "market_type_id": 2001,
+    "selections_ids": [1, 2]
+  },
+  {
+    "name": "1x2",
+    "market_type_id": 2002,
+    "selections_ids": [3, 4, 5]
+  },
+  {
+    "name": "Total x.5",
+    "market_type_id": 2003,
+    "selections_ids": [6, 7]
+  },
+  {
+    "name": "Team total x.5",
+    "market_type_id": 2004,
+    "selections_ids": [8, 9]
+  },
+  {
+    "name": "Handicap x.5",
+    "market_type_id": 2005,
+    "selections_ids": [10, 11]
+  },
+  {
+    "name": "Double chance",
+    "market_type_id": 2006,
+    "selections_ids": [12, 13, 14]
+  },
+  {
+    "name": "Draw no bet",
+    "market_type_id": 2007,
+    "selections_ids": [15, 16]
+  },
+  {
+    "name": "Odd/Even",
+    "market_type_id": 2008,
+    "selections_ids": [17, 18]
+  },
+  {
+    "name": "1x2 HT & Match winner",
+    "market_type_id": 2009,
+    "selections_ids": [19, 20, 21, 22, 23, 24]
+  },
+  {
+    "name": "Highest scoring half",
+    "market_type_id": 2010,
+    "selections_ids": [25, 26, 27]
+  },
+  {
+    "name": "Will there be overtime",
+    "market_type_id": 2011,
+    "selections_ids": [28, 29]
+  },
+  {
+    "name": "Highest scoring quarter",
+    "market_type_id": 2012,
+    "selections_ids": [30, 31, 32, 33, 34]
+  },
+  {
+    "name": "Match winner & match total",
+    "market_type_id": 2013,
+    "selections_ids": [35, 36, 37, 38]
+  },
+  {
+    "name": "3-way Total",
+    "market_type_id": 2014,
+    "selections_ids": [39, 40, 41]
+  },
+  {
+    "name": "Handicap & total",
+    "market_type_id": 2015,
+    "selections_ids": [42, 43, 44, 45]
+  },
+  {
+    "name": "1х2 & total",
+    "market_type_id": 2016,
+    "selections_ids": [46, 47, 48, 49, 50, 51]
+  },
+  {
+    "name": "Point range 10-way",
+    "market_type_id": 2017,
+    "selections_ids": [52, 53, 54, 55, 56, 57, 58, 59, 60, 61]
+  },
+  {
+    "name": "Point range 12-way",
+    "market_type_id": 2018,
+    "selections_ids": [62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73]
+  },
+  {
+    "name": "Winning margin 3-way",
+    "market_type_id": 2019,
+    "selections_ids": [74, 75, 76]
+  },
+  {
+    "name": "Winning margin 12-way",
+    "market_type_id": 2020,
+    "selections_ids": [77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88]
+  },
+  {
+    "name": "Winning margin 14-way",
+    "market_type_id": 2021,
+    "selections_ids": [89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102]
+  },
+  {
+    "name": "Any team winning margin 7-way",
+    "market_type_id": 2022,
+    "selections_ids": [103, 104, 105, 106, 107, 108, 109]
+  },
+  {
+    "name": "Quarter winning margin 3-way",
+    "market_type_id": 2023,
+    "selections_ids": [110, 111, 112]
+  },
+  {
+    "name": "Race to X points",
+    "market_type_id": 2024,
+    "selections_ids": [113, 114]
+  },
+  {
+    "name": "Quarter Race to X points",
+    "market_type_id": 2025,
+    "selections_ids": [115, 116, 117]
+  },
+  {
+    "name": "Quarter team to score X points",
+    "market_type_id": 2026,
+    "selections_ids": [118, 119]
+  },
+  {
+    "name": "Match winner & match both team to score X points",
+    "market_type_id": 2027,
+    "selections_ids": [120, 121, 122, 123]
+  },
+  {
+    "name": "Quarter both team to score X points",
+    "market_type_id": 2028,
+    "selections_ids": [124, 125]
+  },
+  {
+    "name": "Total x.0",
+    "market_type_id": 2037,
+    "selections_ids": [144, 145]
+  },
+  {
+    "name": "Handicap x.0",
+    "market_type_id": 2038,
+    "selections_ids": [146, 147]
+  }
+]
